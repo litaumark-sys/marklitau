@@ -3,18 +3,18 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Mein Unternehmen</title>
+  <title>leckt meine eier</title>
   <link rel="stylesheet" href="style.css" />
   <script defer src="script.js"></script>
 </head>
 <body>
   <header>
-    <div class="logo">MeinUnternehmen</div>
+    <div class="logo">meineeierlecken</div>
     <nav id="navbar">
       <ul>
         <li><a href="#hero">Start</a></li>
-        <li><a href="#about">Über uns</a></li>
-        <li><a href="#services">Leistungen</a></li>
+        <li><a href="#about">Über meine eier</a></li>
+        <li><a href="#services">Leistungen meiner eier</a></li>
         <li><a href="#team">Team</a></li>
         <li><a href="#gallery">Galerie</a></li>
         <li><a href="#contact">Kontakt</a></li>
@@ -24,22 +24,22 @@
   </header>
 
   <section id="hero">
-    <h1>Willkommen bei <span>MeinUnternehmen</span></h1>
-    <p>Wir schaffen Lösungen für Ihre Zukunft.</p>
-    <a href="#contact" class="btn">Kontakt aufnehmen</a>
+    <h1>Willkommen bei <span>Meineeier</span></h1>
+    <p>Wir schaffen Lösungen für Ihre eier.</p>
+    <a href="#contact" class="btn">Kontakt aufnehmen zu meinen eiern</a>
   </section>
 
   <section id="about">
     <h2>Über uns</h2>
-    <p>Wir sind ein innovatives Unternehmen, das sich auf moderne Dienstleistungen und nachhaltige Lösungen spezialisiert hat.</p>
+    <p>Wir sind ein innovatives Unternehmen, das sich auf moderne eier und nachhaltige eier lecken spezialisiert hat.</p>
   </section>
 
   <section id="services">
     <h2>Unsere Leistungen</h2>
     <div class="service-grid">
-      <div class="service-card">💼 <h3>Beratung</h3><p>Professionelle Unternehmensberatung.</p></div>
+      <div class="service-card">💼 <h3>Beratung</h3><p>Professionelle Unternehmensberatung zu eiern.</p></div>
       <div class="service-card">⚙️ <h3>Technik</h3><p>Modernste Technologie und IT-Services.</p></div>
-      <div class="service-card">🌍 <h3>Nachhaltigkeit</h3><p>Ökologisch verantwortungsbewusste Projekte.</p></div>
+      <div class="service-card">🌍 <h3>Nachhaltigkeit</h3><p>Ökologisch verantwortungsbewusste Projekte in betracht zu eiern.</p></div>
     </div>
   </section>
 
